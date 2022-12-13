@@ -1,0 +1,16 @@
+.images {
+  width: 200px;
+  height: 150px;
+}
+
+.header {
+  font-size: 15px;
+  width: 160px;
+  font-weight: 600;
+}
+.inner-con {
+  margin-left: 20px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+}

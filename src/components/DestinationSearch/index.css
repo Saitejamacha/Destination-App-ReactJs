@@ -1,0 +1,36 @@
+.main-con {
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  /* height: 500vh; */
+}
+.seach-and-icon {
+  background-color: #f7f7f5;
+  border-radius: 7px;
+  padding: 5px;
+  width: 240px;
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  height: 25px;
+  width: 25px;
+}
+.input-box {
+  background-color: #f7f7f5;
+  border-radius: 7px;
+  padding: 5px;
+  width: 195px;
+  border: 0px;
+  outline: none;
+}
+.bg-con {
+  padding-left: 80px;
+}
+.order-con {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.all-cities-con {
+}
